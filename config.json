@@ -1,3 +1,8 @@
 {
-  "base_url": "http://kairux-novax.pterocloud.my.id:2618"
+  "base_url": "http://kairux-novax.pterocloud.my.id:2618",
+  "maintenance": false,
+  "force_update": false,
+  "version_code": "1.0",
+  "apk_url": "",
+  "update_message": ""
 }
