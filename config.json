@@ -1,5 +1,5 @@
 {
-  "base_url": "http://kairux-novax.pterocloud.my.id:2618",
+  "server_url": "http://kairux-novax.pterocloud.my.id:2618",
   "maintenance": false,
   "force_update": false,
   "version_code": "1.0",
